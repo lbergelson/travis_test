@@ -1,3 +1,3 @@
 travis_test
 ===========
-https://travis-ci.org/lbergelson/travis_test.svg?branch=master
+![Build status](https://travis-ci.org/lbergelson/travis_test.svg?branch=master)
