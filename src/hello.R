@@ -1,1 +1,1 @@
-print "Hi from R"
+print("Hi from R")

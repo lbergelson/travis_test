@@ -7,6 +7,7 @@ before_install:
   - sudo apt-get install -y r-base
   - sudo apt-get install -y r-base-dev
   - sudo apt-get install -y libhdf5-serial-dev
+  - sudo apt-get install -y samtools
 script: 
   - nosetests
   - Rscript src/hello.R
